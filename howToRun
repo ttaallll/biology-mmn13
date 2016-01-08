@@ -1,0 +1,5 @@
+run in console:
+$ python main.py
+
+to change params:
+open main.py and play with the upper config variables
